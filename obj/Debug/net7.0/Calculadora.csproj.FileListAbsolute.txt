@@ -1,0 +1,15 @@
+C:\teste\vscode\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\teste\vscode\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\teste\vscode\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\teste\vscode\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\teste\vscode\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\teste\vscode\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
